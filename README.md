@@ -7,3 +7,7 @@ Minor differences from when the tutorial was released and when the walkthrough i
 
  - Defining constructors as functions with the same name as the contract
    is deprecated.
+
+**Chapter 4. Watch Events**
+
+ - When calling an event you must prepend the call with 'emit'
